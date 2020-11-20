@@ -1,5 +1,5 @@
 {
-    "root": "public",
+    "root": "./public/",
     "clean_urls": true,
     "routes": {
         "/resume": "./assets/PilotoTechnicalResumeV2.pdf"
